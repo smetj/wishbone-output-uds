@@ -13,7 +13,7 @@
     wishbone.output.uds
     ===================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Submit event data to an Unix domain socket.
     -------------------------------------------
